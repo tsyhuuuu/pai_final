@@ -1,0 +1,14 @@
+rclpy
+geometry_msgs
+sensor_msgs
+cv_bridge
+opencv-python
+numpy
+torch
+torchvision
+ultralytics
+openai
+speech_recognition
+pyaudio
+pyttsx3
+transformers
