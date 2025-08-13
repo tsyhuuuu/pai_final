@@ -17,3 +17,13 @@
 2. **RViz 2 を起動**  
    ```bash
    rviz2
+   
+3. **YOLO ROS コンテナを起動** 
+   ```bash
+   sudo docker run -it --rm --gpus all yolo_ros
+
+4. **キーボードでロボットを操作** 
+   別のターミナルで以下を実行し、Isaac Sim 内のロボットをキーボードで制御します。
+   ```bash
+   ros2 run teleop_twist_keyboard teleop_twist_keyboard
+
