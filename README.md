@@ -5,9 +5,9 @@
 ## 前提条件
 - NVIDIA GPU 環境（`--gpus all` オプションを使用）
 - [Isaac Sim](https://developer.nvidia.com/isaac-sim) がインストール済み
-- ROS 2 環境（`rviz2`, `teleop_twist_keyboard` 利用可能）
+- ROS 2 環境（`rviz2`, `teleop_twist_keyboard` を使用）
 - Docker がインストール済み
-- 環境設定は以下を参照: [yolo_ros GitHub リポジトリ](https://github.com/mgonzs13/yolo_ros)
+- 環境設定は以下を参照: [yolo_ros](https://github.com/mgonzs13/yolo_ros)
 
 ## 手順
 
