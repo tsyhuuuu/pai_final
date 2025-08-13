@@ -27,3 +27,6 @@
    ```bash
    ros2 run teleop_twist_keyboard teleop_twist_keyboard
 
+## その他
+
+本プロジェクトでは、本来GPTを介して自然言語によるIsaac Sim上のロボット制御や画像認識を試みましたが、現時点ではまだ実現できていません。現在開発途中ですが、プログラムは deprecated/intelligent_move に記載しています。
